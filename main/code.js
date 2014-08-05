@@ -7,7 +7,7 @@ GDT.addPlatform({
 	startAmount:0.999,
 	unitsSold:9E10,
 	licencePrize:9E4,
-	published:"3/1/1",
+	published:"9/12/4",
 	platformRetireDate:"100/12/4",
 	developmentCosts:9E4,
 	genreWeightings:[  1, 1, 1, 1, 1, 1 ],
